@@ -1,11 +1,9 @@
 import React, {useRef} from "react";
 import Intro from "./Intro";
-import Particles from 'react-particles-js';
 import Features from "./Features";
 import About from "./About";
 import AddOns from "./Addons";
 import Guide from "./Guide";
-import Starter from "./Starter";
 import UseCase from "./UseCase";
 
 const App: React.FC = () => {
